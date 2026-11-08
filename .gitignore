@@ -1,0 +1,7 @@
+run/
+run360/
+*.exe
+*.mod
+*.o
+*.txt
+__pycache__/
